@@ -1,5 +1,7 @@
 <h1>👋 Hi, I’m Emmanuel</h1><h3>An ICT Engineer from Mexico.</h3>
 
+Focused more on web development and improving myself every day. 
+
 🌱 Knowledge and constant learning:
 
 | Languages | Database | Framework |
